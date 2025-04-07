@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Elyasdj 👋</h1>
+  <h1>Yo! Elyasdj here 🤙</h1>
   <h3>DevOps Mechanic 🛠️ | Linux Junkie 🐧 | Infra Whisperer ⚡</h3>
 </div>
 
