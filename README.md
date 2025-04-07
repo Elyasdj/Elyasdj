@@ -1,4 +1,4 @@
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyasdj&label=Profile%20views&color=0e75b6&style=flat" alt="elyasdj" /> </p>
 <div align="center">
   <h1>Yo! Elyasdj here 🤙</h1>
   <h3>DevOps Mechanic 🛠️ | Linux Junkie 🐧 | Infra Whisperer ⚡</h3>
