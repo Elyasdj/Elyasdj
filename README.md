@@ -1,3 +1,4 @@
+</p>
 <div align="center">
   <h1>Yo! Elyasdj here 🤙</h1>
   <h3>DevOps Mechanic 🛠️ | Linux Junkie 🐧 | Infra Whisperer ⚡</h3>
@@ -12,6 +13,9 @@
 </p>
 
 <h2>🚧 Currently hacking around with</h2>
+
+<img align="right" src="https://i.pinimg.com/originals/c6/ea/f2/c6eaf2589af865e5dab158c5c67fc050.gif" alt="elyasdj" style="float: right; height: 150px; width: 300px;">
+
 <ul>
   <li>Linux 🐧 (my daily driver)</li>
   <li>Docker & Compose 🐳 (containers are cool, period.)</li>
@@ -28,6 +32,9 @@
 </ul>
 
 <h2>🧠 Moral Code</h2>
+
+<img align="right" src="https://i.pinimg.com/originals/fa/a3/df/faa3df83529b700cb3d0ea1e3b063c10.gif" alt="elyasdj" style="float: right; height: 150px; width: 300px;">
+
 <blockquote>
   “Every weird bug is just a misunderstood feature.”
 </blockquote>
@@ -66,3 +73,12 @@ Just browsing? Stay as long as you like.<br>
 Want to collab? Let’s build something that survives 3AM alerts.<br>
 Here by accident? Might as well check out the code. 
 </p>
+
+<hr>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasdj&show_icons=true&locale=en&layout=compact" alt="elyasdj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyasdj&show_icons=true&locale=en" alt="elyasdj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasdj&" alt="elyasdj" /></p>
+
